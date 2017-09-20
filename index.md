@@ -9,5 +9,5 @@
 
 ### A few rows cut down
 
-![] http://twl8n.github.io/image_1.jpg
+![](image_1.jpg)
 
