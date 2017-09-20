@@ -1,3 +1,7 @@
+---
+title: Home
+permalink: index.html
+---
 
 #### Is Markdown rendered automatically?
 
