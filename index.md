@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: index.html
+sitebar: toc
 ---
 
 #### Is Markdown rendered automatically?
