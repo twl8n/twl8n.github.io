@@ -5,5 +5,5 @@
 
 - now testing if .md is rendered as html, or auto converted.
 
-http://facebook.com/celadonacres
+[Celadon Acres on Facebook](http://facebook.com/celadonacres)
 
