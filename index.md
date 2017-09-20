@@ -9,5 +9,5 @@
 
 ### A few rows cut down
 
-![](image_1.jpg)
+![](image_1_t.jpg)
 
