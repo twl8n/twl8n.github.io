@@ -7,3 +7,7 @@
 
 [Celadon Acres on Facebook](http://facebook.com/celadonacres)
 
+### A few rows cut down
+
+![] http://twl8n.github.io/image_1.jpg
+
