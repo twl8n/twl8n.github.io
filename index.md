@@ -5,15 +5,15 @@ sidebar:
     nav: toc
 ---
 
-#### Is Markdown rendered automatically?
-
-- the index.html test shows that at least .html is not treated as markdown
-
-- now testing if .md is rendered as html, or auto converted.
+#### Sorghum season at Celadon Acres Farm
 
 [Celadon Acres on Facebook](http://facebook.com/celadonacres)
 
+
 ### A few rows cut down
+
+Two weeks ago we started cutting the sorghum, squeezing, and making syrup. In this picture, the first two rows
+have been cut and hauled out of the field.
 
 ![](image_1_t.jpg)
 
