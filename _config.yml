@@ -1,10 +1,2 @@
 theme: jekyll-theme-minimal
 
-defaults:
-  # _toc
-  - scope:
-      path: ""
-      type: toc
-    values:
-      sidebar:
-        nav: "toc"
