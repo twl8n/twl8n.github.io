@@ -2,7 +2,12 @@
 title: Home
 permalink: index.html
 sidebar:
-    nav: "toc"
+  nav: "toc"
+toc:
+  - title: "Home"
+    url: /index/
+  - title: "About"
+    url: /about/
 ---
 
 #### Sorghum season at Celadon Acres Farm
