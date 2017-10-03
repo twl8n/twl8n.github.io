@@ -8,8 +8,8 @@ toc:
     url: /index/
   - title: "About"
     url: /about/
-{% include navigation.html context="/" %}
 ---
+{% include navigation.html context="/" %}
 
 #### Sorghum season at Celadon Acres Farm
 
