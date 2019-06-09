@@ -6,7 +6,9 @@ permalink: about.html
 
 #### About Celadon Acres Farm
 
-We are family farmers growing sweet sorghum and making sorghum syrup (some old timers call it molasses).
+We are Abby Rice and Tom Laudeman, farmers growing sweet sorghum and making sorghum syrup (some old timers call it molasses). We also grow Cherokee White corn for corn meal, muscadines, hazelnuts, chinkapins, and a few blueberries.
+
+![](tom_abby_2016_small.jpg);
 
 Address:
 ```
