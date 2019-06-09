@@ -8,7 +8,9 @@ permalink: about.html
 
 We are Abby Rice and Tom Laudeman, farmers growing sweet sorghum and making sorghum syrup (some old timers call it molasses). We also grow Cherokee White corn for corn meal, muscadines, hazelnuts, chinkapins, and a few blueberries.
 
-![](tom_abby_2016_small.jpg);
+Visit our farm for purchases. Call ahead for availability.
+
+![](tom_abby_2016_small.jpg)
 
 Address:
 ```
