@@ -3,6 +3,12 @@ title: Home
 permalink: index.html
 ---
 
+#### Corn planting
+
+Now that the soil has warmed up, we planted Cherokee White dent corn, which is the best for making corn meal. Tom has the planter ready to go in this photo.
+
+![](2019_corn_planter.jpg)
+
 #### Sorghum season at Celadon Acres Farm
 
 #### Two rows cut down
