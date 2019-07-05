@@ -2,7 +2,14 @@
 Celadon Acres Farm web site.
 Visit http://twl8n.github.io/index
 
+# Useful Github Pages Jekyll starting guide
+
+https://devhints.io/jekyll
+
+http://jmcglone.com/guides/github-pages/
+
 # Github pages issues
+
 
 Error from DNS provider:
 Could not add A Record for '@': Cannot add multiple records for the same host.
