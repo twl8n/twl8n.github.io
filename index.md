@@ -10,6 +10,7 @@ Both are grown here using sustainable practices, free from herbicides and pestic
 To make arrangements for purchase:
 
 - Text or call (please leave message): 434-218-3276
+- Email <abby@laudeman.com>
 - Pickup at the farm by appointment
 - Inquire about delivery
 
