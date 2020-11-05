@@ -5,8 +5,9 @@ permalink: index.html
 
 #### Sorghum syrup and corn meal for sale
 
-We sell sorghum syrup and corn meal at our farm. Both are grown here using sustainable practices, free from herbicides and pesticides. We currently have Cherokee White corn meal. Cherokee White is an open pollenated, heritage, dent corn that makes sweet, fluffy corn bread. We have also grown Bloody Butcher corn.
+Both are grown here using sustainable practices, free from herbicides and pesticides. Currently available for purchase: Cherokee White corn meal and sorghum syrup. Cherokee White is an open pollenated, heritage, dent corn that makes sweet, fluffy corn bread. 
 
+To make arrangements for purchase, text or call(please leave message): 434-218-3276
 - Pure Sorghum syrup, 1 pint $10
 - Cherokee White corn meal, 1 pound $2.50
 
