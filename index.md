@@ -19,13 +19,13 @@ Prices:
 - Pure Sorghum syrup, 1 pint $10
 - Cherokee White corn meal, 1 pound $2.50
 
-![](IMG_1318.JPG)
+![](/image/IMG_1318.JPG)
 
 #### Sorghum season at Celadon Acres Farm
 
 This is Tom with the fall 2020 harvest on the tractor.
 
-![](IMG_20201004_114716271_HDR.jpg)
+![](/image/IMG_20201004_114716271_HDR.jpg)
 
 
 
