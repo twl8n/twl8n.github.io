@@ -19,6 +19,8 @@ Prices:
 - Pure Sorghum syrup, 1 pint $10
 - Cherokee White corn meal, 1 pound $2.50
 
+![](IMG_1318.JPG)
+
 #### Corn planting
 
 Corn is planted in the late spring, when the soil has warmed up. Tom has the planter ready to go in this photo.
