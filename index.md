@@ -23,7 +23,7 @@ Prices:
 
 #### Sorghum season at Celadon Acres Farm
 
-Tom with the Fall 2020 harvest.
+Tom with the fall 2020 harvest.
 
 ![](IMG_20201004_114716271_HDR.jpg)
 
