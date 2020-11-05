@@ -21,18 +21,11 @@ Prices:
 
 ![](IMG_1318.JPG)
 
-#### Corn planting
-
-Corn is planted in the late spring, when the soil has warmed up. Tom has the planter ready to go in this photo.
-
-![](2019_corn_planter.jpg)
-
 #### Sorghum season at Celadon Acres Farm
 
-#### Two rows cut down
+Tom with the Fall 2020 harvest.
 
-In the middle of September we started cutting the sorghum, squeezing the cane, and making syrup. In this
-picture, the first two rows have been cut and hauled out of the field.
+![](IMG_20201004_114716271_HDR.jpg)
 
-![](image_1_t.jpg)
+
 
