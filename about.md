@@ -10,7 +10,7 @@ We are Abby Rice and Tom Laudeman, farmers growing sweet sorghum and making sorg
 
 Visit our farm for purchases. Call ahead for availability.
 
-![](tom_abby_2016_small.jpg)
+![](/image/IMG_1357.JPG)
 
 Address:
 ```
