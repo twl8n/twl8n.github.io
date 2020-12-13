@@ -6,6 +6,15 @@ home page: index.md
 left navigation top: _config.yml
 left nav bottom: _layouts/default.html
 
+
+
+https://www.amazon.com/gp/product/0813060826/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0813060826&linkCode=as2&tag=tomsvwbugrepa&linkId=978ce6df3a821522468e58aca0b58889
+
+https://www.amazon.com/Sorghums-Savor-Ronni-Lundy/dp/0813060826
+
+http://www.amazon.com/exec/obidos/ASIN/1562614800/tomsvwbugrepa
+
+
 # Useful Github Pages Jekyll starting guide
 
 https://devhints.io/jekyll
