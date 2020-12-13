@@ -2,6 +2,10 @@
 Celadon Acres Farm web site.
 Visit http://twl8n.github.io/index
 
+home page: index.md
+left navigation top: _config.yml
+left nav bottom: _layouts/default.html
+
 # Useful Github Pages Jekyll starting guide
 
 https://devhints.io/jekyll
