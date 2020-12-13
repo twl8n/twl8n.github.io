@@ -19,7 +19,7 @@ Prices:
 ![](/image/IMG_1318.JPG)
 
 
-#### Sorghum syrup and cornmeal for sale
+#### Sorghum syrup and cornmeal
 
 Grown here on our farm using sustainable farming practices. Cherokee White is an open pollenated, heritage,
 dent corn that makes sweet, fluffy corn bread. Sorghum syrup (some people call it sorghum molasses) is a
