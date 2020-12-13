@@ -24,7 +24,7 @@ We use this cookbook all the time. We especially like the Spicy Sorghum-Glazed P
 - 1/2 teaspoon vanilla extract
 
 
-Spray inside of a large, brown, paper grocery bag with Pam. Pour popped corn into bag. In a 1-quart, or larger, microwave bowl, combine brown sugar, margarine (butter), sorghum and salt. Microwave on HIGH for 3 minutes; stir. Microwave on HIGH another 3 minutes. Remove from overn and add 1/2 teaspoon vanilla and 1/2 teaspoon soda; mix well. Pour mixture over the popcorn in the bag. Fold down top and shake bag. Microwave on HIGH for 1 minute. Remove bag and shake well. Do this 2 more times. (Total of three minutes.) Store in an airtight container. This is so quick and easy and keeps for several days. Recipe from "Sorghum Treasures cookbook: A Compliation of Recipes - Old and New"
+Spray inside of a large, brown, paper grocery bag with Pam. Pour popped corn into bag. In a 1-quart, or larger, microwave bowl, combine brown sugar, margarine (butter), sorghum and salt. Microwave on HIGH for 3 minutes; stir. Microwave on HIGH another 3 minutes. Remove from overn and add 1/2 teaspoon vanilla and 1/2 teaspoon soda; mix well. Pour mixture over the popcorn in the bag. Fold down top and shake bag. Microwave on HIGH for 1 minute. Remove bag and shake well. Do this 2 more times. (Total of three minutes.) Store in an airtight container. This is so quick and easy and keeps for several days. Recipe from "Sorghum Treasures: A Compliation of Recipes - Old and New"
 
 
 #### Gingerbread Boys and Girls
@@ -42,6 +42,6 @@ Spray inside of a large, brown, paper grocery bag with Pam. Pour popped corn int
 - 1/4 tsp. ground cloves
 - 1 tsp. nutmeg
 
-Cream butter and sugar. Add egg and beat well. Add water and syrup and mix. Sift dry ingredients together and add to creamed mixture. Mix well and chill at least 1 hour. Prepare floured surface and roll out dough 1/8 to 1/4 inch thick. Cut with cookie cutters. If using as tree ornaments, make hole with a dried bean before cooking. Before baking, place raisins for eyes, nose, mouth and buttons, or decorate later with Decorator Icing after they are baked and cooled. Place on an ungreased cookie sheet. Bake at 375 degrees for 8 to 10 minutes. Recipe from "Sorghum Treasures II cookbook: A Compilation of Recipes - Old and New"
+Cream butter and sugar. Add egg and beat well. Add water and syrup and mix. Sift dry ingredients together and add to creamed mixture. Mix well and chill at least 1 hour. Prepare floured surface and roll out dough 1/8 to 1/4 inch thick. Cut with cookie cutters. If using as tree ornaments, make hole with a dried bean before cooking. Before baking, place raisins for eyes, nose, mouth and buttons, or decorate later with Decorator Icing after they are baked and cooled. Place on an ungreased cookie sheet. Bake at 375 degrees for 8 to 10 minutes. Recipe from "Sorghum Treasures II: A Compilation of Recipes - Old and New"
 
 
