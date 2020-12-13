@@ -12,7 +12,7 @@ dried fruit. It is fantastic as a topping on ice cream, oatmeal, pancakes, and a
 
 #### Celadon Acres Pottery Studio and Gallery
 
-Abby and Tom make fine ceramics and pottery in a small studio here at the farm. We have an outdoor display as part of our farm stand. 
+We make fine ceramics and pottery in a small studio here at the farm. We have an outdoor display as part of our farm stand. 
 
 ![](/image/IMG_1439.JPG)
 
