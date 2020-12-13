@@ -5,19 +5,30 @@ permalink: index.html
 
 #### Sorghum syrup and corn meal for sale
 
-Both are grown here using sustainable practices, free from herbicides and pesticides. Currently available for purchase: Cherokee White corn meal and sorghum syrup. Cherokee White is an open pollenated, heritage, dent corn that makes sweet, fluffy corn bread. 
+We grow sweet sorghum and corn (for cornmeal) using sustainable farming practices. Currently available for
+purchase: Cherokee White corn meal and sorghum syrup. Cherokee White is an open pollenated, heritage, dent
+corn that makes sweet, fluffy corn bread. Sorghum syrup (some people call it sorghum molasses) is a natural
+sweetener. Sorghum is a thick, rich syrup with a unique flavor reminiscent of caramel, vanilla and dried
+fruit. It is fantastic as a topping on ice cream, oatmeal, pancakes, and as a sweetener in baked goods.
 
-To make arrangements for purchase:
+#### Celadon Acres Pottery Studio and Gallery
 
-- Text or call (please leave message): 434-218-3276
+Abby and Tom make fine ceramics and pottery in a small studio here at the farm. We have an outdoor display as part of our farm stand. 
+
+![](/image/IMG_1439.JPG)
+
+#### How to purchase:
+
+- Visit Celadon Acres Farm, open daily from 10am to 5pm
+- Text or call for more options: 434-218-3276
 - Email <abby@laudeman.com>
-- Pickup at the farm by appointment
 - Inquire about delivery
 
 Prices:
 
 - Pure Sorghum syrup, 1 pint $10
 - Cherokee White corn meal, 1 pound $2.50
+- Pottery pieces priced individually
 
 ![](/image/IMG_1318.JPG)
 
