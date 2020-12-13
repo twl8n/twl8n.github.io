@@ -10,7 +10,7 @@ sorghum syrup (some old timers call it molasses). We also grow Cherokee White co
 muscadines, hazelnuts, chinkapins, and a few blueberries. Abby puts in a huge vegetable garden every year.
 Some years we also grow Bloody Butcher corn for cornmeal.
 
-Visit our farm for purchases. Call ahead for availability.
+
 
 ![](/image/IMG_1357.JPG)
 
