@@ -6,7 +6,7 @@ permalink: index.html
 #### Buy our pottery, sorghum syrup, and cornmeal:
 
 - Visit Celadon Acres Farm, open daily from 10am to 5pm
-- Text or call for more options: 434-218-3276
+- Text or call for more options: 434-466-3275
 - Email <abby@laudeman.com>
 - Inquire about delivery
 
