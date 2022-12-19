@@ -5,11 +5,9 @@ permalink: about.html
 
 #### About Celadon Acres Farm
 
-We are Abby Rice and Tom Laudeman, studio potters and farmers. We grow sweet sorghum which we make into
-sorghum syrup (some old timers call it molasses). We also grow Cherokee White corn for cornmeal, as well as
-muscadines, hazelnuts, chinkapins, and a few blueberries. Abby puts in a huge vegetable garden every year.
-Some years we also grow Bloody Butcher corn for cornmeal.
-
+We are Abby Rice and Tom Laudeman, studio potters and farmers. We grow Cherokee White and Bloody Butcher
+varieties of corn for cornmeal, as well as muscadines (scuppernogs), hazelnuts, chinkapins, and a few
+blueberries. Abby puts in a huge vegetable garden every year. 
 
 
 ![](/image/IMG_1357.JPG)
