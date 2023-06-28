@@ -6,7 +6,7 @@ permalink: index.html
 #### Buy our pottery, or cornmeal:
 
 - Visit Celadon Acres Farm, open daily from 10am to 5pm
-- Text or call for more options: 434-466-3275
+- Text or call for more options: 434-465-0965
 - Email <abby@laudeman.com>
 - Inquire about delivery
 
