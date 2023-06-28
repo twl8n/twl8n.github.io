@@ -12,7 +12,7 @@ permalink: index.html
 
 Prices:
 
-- Cherokee White corn meal, 1 pound $2.50
+- Cherokee White corn meal, 1 pound $5.00
 - Pottery pieces priced individually
 
 ![](/image/IMG_1318.JPG)
