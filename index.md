@@ -5,10 +5,10 @@ permalink: index.html
 
 #### Buy our pottery, or cornmeal:
 
-- Visit Celadon Acres Farm, open daily from 10am to 5pm
-- Text or call for more options: 434-465-0965
+- Visit us at the Village of Lovingston Farmers Market, Wednesday 3pm to 6pm
+- Text or call: 434-465-0965
 - Email <abby@laudeman.com>
-- Inquire about delivery
+
 
 Prices:
 
@@ -25,7 +25,7 @@ dent corn that makes sweet, fluffy corn bread.
 
 #### Celadon Acres Pottery Studio and Gallery
 
-We make fine ceramics and pottery in a small studio here at the farm. We have an outdoor display as part of our farm stand. 
+We make fine ceramics and pottery in a small studio here at the farm.
 
 ![](/image/IMG_1439.JPG)
 
