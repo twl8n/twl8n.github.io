@@ -5,9 +5,15 @@ permalink: index.html
 
 #### Buy our pottery, or cornmeal:
 
-- Visit us at the Village of Lovingston Farmers Market, Wednesday 3pm to 6pm
-- Text or call: 434-465-0965
-- Email <abby@laudeman.com>
+Visit us at the Village of Lovingston Farmers Market, Wednesday 3pm to 6pm
+
+[Village of Lovingston Farmers Market](https://www.lovingstonfarmersmarket.com/)
+
+[Village of Lovingston Farmers Market Facebook](https://www.facebook.com/lovingstonfarmersmarket)
+
+Contact us:
+Text or call 434-465-0965
+Email <abby@laudeman.com>
 
 
 Prices:
