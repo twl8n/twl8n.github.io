@@ -18,7 +18,8 @@ Email <abby@laudeman.com>
 
 Prices:
 
-- Cherokee White corn meal, 1 pound $5.00
+- Cherokee White corn meal, 1 pound $8.00
+- Bloody Butcher corn meal, 1 pound $8.00
 - Pottery pieces priced individually
 
 ![](/image/IMG_1318.JPG)
@@ -27,7 +28,11 @@ Prices:
 #### Cornmeal
 
 Grown here on our farm using sustainable farming practices. Cherokee White is an open pollenated, heritage,
-dent corn that makes sweet, fluffy corn bread. 
+dent corn that makes sweet, fluffy corn bread. Bloody Butcher is a deep red hulls, with a white interior. The corn meal has red flecks.
+
+This is what the corn looked like at the end of May.
+
+![](/image/IMG_4052.JPG)
 
 #### Celadon Acres Pottery Studio and Gallery
 
