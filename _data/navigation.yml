@@ -1,5 +1,7 @@
 toc:
   - title: "Home"
-    url: /index/
+    url: /index
   - title: "About"
-    url: /about/
+    url: /about
+  - title: "Pottery Studio"
+    url: /pottery_studio
