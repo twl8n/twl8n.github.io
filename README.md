@@ -6,7 +6,26 @@ home page: index.md
 left navigation top: _config.yml
 left nav bottom: _layouts/default.html
 
+mkdir -p /assets/css/
+touch /assets/css/style.scss
 
+What is the difference between thses two minimal themes??
+
+Github pages minimal:
+
+https://github.com/pages-themes/minimal?tab=readme-ov-file#customizing
+
+Orderedlist minimal: 
+
+https://github.com/orderedlist/minimal/tree/master?tab=readme-ov-file
+
+Modify customize CSS style sheet:
+
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css
+
+Jekyll troubleshooting:
+
+https://help.github.com/articles/using-jekyll-with-pages#troubleshooting
 
 https://www.amazon.com/gp/product/0813060826/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0813060826&linkCode=as2&tag=tomsvwbugrepa&linkId=978ce6df3a821522468e58aca0b58889
 
