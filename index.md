@@ -48,8 +48,10 @@ We make fine ceramics and pottery in a small studio here at the farm. You can bu
 
 The Heart of Nelson on Google Maps: [Heart of Nelson](https://maps.app.goo.gl/DeR9iJuQfuUL2Nkk9)
 
-![](/image/IMG_1439.JPG)
-
+![](/image/image4.jpeg)
+![](/image/image0.jpeg)
+![](/image/image3.jpeg)
+![](/image/image2.jpeg)
 
 
 
