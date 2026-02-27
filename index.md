@@ -6,7 +6,7 @@ permalink: index.html
 #### Buy our pottery, or cornmeal:
 
 Visit us at the Village of Lovingston Farmers Market
-Wednesdays, 3pm - 5:30pm  [562 Front Street, Lovingston, Virginia](https://maps.app.goo.gl/7ADM7ajijezHTFr17)
+Wednesdays, 3PM - 5:30PM  [562 Front Street, Lovingston, Virginia](https://maps.app.goo.gl/7ADM7ajijezHTFr17)
 
 2026 Farmers Market Opening Day - April 15th!
  Village of Lovingston Farmers Market
