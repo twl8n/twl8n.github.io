@@ -6,8 +6,8 @@ home page: index.md
 left navigation top: _config.yml
 left nav bottom: _layouts/default.html
 
-mkdir -p /assets/css/
-touch /assets/css/style.scss
+mkdir -p assets/css/
+touch assets/css/style.scss
 
 What is the difference between thses two minimal themes??
 
