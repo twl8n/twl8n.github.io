@@ -23,6 +23,10 @@ Modify customize CSS style sheet:
 
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css
 
+Monitor actions and progress:
+
+https://github.com/twl8n/twl8n.github.io/actions
+
 Jekyll troubleshooting:
 
 https://help.github.com/articles/using-jekyll-with-pages#troubleshooting
