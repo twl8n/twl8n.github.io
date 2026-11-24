@@ -3,12 +3,12 @@ title: Home
 permalink: index.html
 ---
 
-#### Buy our pottery, or cornmeal at Village Antiques and Cafe in Lovingston, Virginia
+#### Buy our pottery, cornmeal, and grits at Village Antiques and Cafe in Lovingston, Virginia
 
 Village Antiques and Cafe\
 605 Front St.\
 Lovingston, VA 22949\
-[Village Antiques & Cafe](https://www.villageantiquesandcafe.com/)
+[Village Antiques & Cafe](https://www.villageantiquesandcafe.com/)\
 [Village Antiques on Facebook](https://www.facebook.com/people/Village-Antiques/61552573484394/)
 
 Contact Abby at Celdaon Acres Farm and Pottery Studio:\
