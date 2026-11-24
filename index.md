@@ -34,11 +34,7 @@ This is what the corn field looks like at the end of May.
 
 #### Celadon Acres Pottery Studio and Gallery
 
-We make fine ceramics and pottery in a small studio here at the farm. You can buy our pottery from the Heart of Nelson Artisan Cooperative.
-
-[Heart of Nelson Artisan Cooperative](https://www.heartofnelson.com/)
-
-The Heart of Nelson on Google Maps: [Heart of Nelson](https://maps.app.goo.gl/DeR9iJuQfuUL2Nkk9)
+We make fine ceramics and pottery in a small studio here at the farm. You can buy our pottery at Village Antiques and Cafe. Abby is working there most days when the store is open.
 
 ![Abby and Tom pottery display](/image/image4.jpeg)
 ![Abby plates and mug](/image/image0.jpeg)
