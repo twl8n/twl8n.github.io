@@ -8,9 +8,9 @@ permalink: index.html
 Village Antiques and Cafe
 605 Front St.
 Lovingston, VA 22949
-https://www.villageantiquesandcafe.com/
+[Village Antiques & Cafe](https://www.villageantiquesandcafe.com/)
 
-https://www.facebook.com/people/Village-Antiques/61552573484394/
+[Village Antiques on Facebook](https://www.facebook.com/people/Village-Antiques/61552573484394/)
 
 Contact Abby at Celdaon Acres Farm and Pottery Studio:  
 Text or call 434-465-0965  
