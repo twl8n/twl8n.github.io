@@ -3,21 +3,14 @@ title: Home
 permalink: index.html
 ---
 
-#### Buy our pottery, or cornmeal:
+#### Buy our pottery, or cornmeal at Village Antiques and Cafe in Lovingston, Virginia
 
-Visit us at the Village of Lovingston Farmers Market  
-Wednesdays, 3PM - 5:30PM  
-[562 Front Street, Lovingston, Virginia](https://maps.app.goo.gl/7ADM7ajijezHTFr17)
+Village Antiques and Cafe
+605 Front St.
+Lovingston, VA 22949
+https://www.villageantiquesandcafe.com/
 
-2026 Farmers Market Opening Day - April 15th!  
-Village of Lovingston Farmers Market  
-562 Front Street, Lovingston, Virginia  
-Wednesdays, 3pm - 5:30pm  
-April 15 - September 30, 2026 
-
-[Village of Lovingston Farmers Market](https://www.lovingstonfarmersmarket.com/)
-
-[Village of Lovingston Farmers Market Facebook](https://www.facebook.com/lovingstonfarmersmarket)
+https://www.facebook.com/people/Village-Antiques/61552573484394/
 
 Contact Abby at Celdaon Acres Farm and Pottery Studio:  
 Text or call 434-465-0965  
@@ -25,7 +18,7 @@ Email <abby@laudeman.com>
 
 Prices:
 
-- Cherokee White cornmeal, 1 pound $8.00
+- Bloody Butcher grits, 1 pound $8.00
 - Bloody Butcher cornmeal, 1 pound $8.00
 - Pottery pieces priced individually
 
